@@ -10,6 +10,6 @@ I used firebase for authentication and storing data.
 I don't think you would want to clone it considering all the things i mentioned above but still if you want to then go ahead.  
 To use it you would have to just open the index.html file on your favorite browser.  
 
-Thanks for taking the time to check this repo
+Thanks for taking the time to check this repo  
 Keep coding
 
